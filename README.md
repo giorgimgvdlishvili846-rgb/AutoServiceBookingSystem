@@ -102,3 +102,4 @@ Integration tests cover JWT registration/profile access, booking overlap prevent
 # AutoServiceBookingSystem
 # AutoServiceBookingSystem
 # AutoServiceBookingSystem
+# AutoServiceBookingSystem
