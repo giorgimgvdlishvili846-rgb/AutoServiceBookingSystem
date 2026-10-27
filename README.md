@@ -100,3 +100,4 @@ Integration tests cover JWT registration/profile access, booking overlap prevent
 - `GET /api/admin/users`
 - `PUT /api/admin/users/{id}/block`
 # AutoServiceBookingSystem
+# AutoServiceBookingSystem
